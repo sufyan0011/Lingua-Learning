@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">लिङ्गुअलर्न</string>
+    <string name="home">गृह</string>
+    <string name="vocabulary">शब्दावली</string>
+    <string name="translation">अनुवाद</string>
+    <string name="learning">शिक्षा</string>
+    <string name="progress">प्रगति</string>
+    <string name="language">भाषा</string>
+    <string name="translationscreen">अनुवाद स्क्रिन</string>
+    <string name="offline">अफलाइन</string>
+    <string name="online">अनलाइन</string>
+    <string name="translate">अनुवाद गर्नुहोस्</string>
+    <string name="save">संचय गर्नुहोस्</string>
+    <string name="input_text_hint">इनपुटटेक्स्ट</string>
+    <string name="output_text_default">आउटपुटटेक्स्ट</string>
+    <string name="learningscreen">शिक्षा</string>
+    <string name="games">खेलहरू</string>
+    <string name="exercise">अभ्यास</string>
+    <string name="notes">नोटहरू</string>
+    <string name="gamesscreen">खेलहरू</string>
+    <string name="guess_the_animal">पशु पहिचान</string>
+    <string name="match_the_color">रङ मिलाउनुहोस्</string>
+    <string name="tab_the_shape">आकार ट्याप गर्नुहोस्</string>
+    <string name="guess_the_food">खानाको पहिचान</string>
+    <string name="tap_the_object">वस्तु ट्याप गर्नुहोस्</string>
+    <string name="guess_the_vehicles">गाडीहरूको पहिचान</string>
+    <string name="excercisescreen">अभ्यास</string>
+    <string name="flashcards">फ्ल्यासकार्डहरू</string>
+    <string name="sentence_building">वाक्य निर्माण</string>
+    <string name="fill_in_blank">खाली ठाउँ भर्नुहोस्</string>
+</resources>
